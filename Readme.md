@@ -2,8 +2,3 @@ v0.1
 
 Beginn Master Branch
 Beginn Develop Branch
-Beginn Feature B
-
-- Erster Commit Text
-- Zweiter Commit Text
-- Dritter Commit Text
