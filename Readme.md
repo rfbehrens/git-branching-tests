@@ -15,5 +15,6 @@ Und noch was und was neues :D
 
 Rucksack [
     umbrella,
-    bottle_water
+    bottle_water,
+    towel
 ]
