@@ -1,25 +1,37 @@
-v0.1.0
+Tafel [
+    x = 1,
+    y = 2,
+    z = x + y
+]
 
-Beginn Master Branch
-Beginn Develop Branch
+Einkaufsliste [
+    Milch,
+    Eier,
+    Brot
+]
 
-x = y :)
-y = 121
+Kühlschrank [
+    Marmelade,
+    Wurst,
+    Käse
+]
 
-Nuer Commit für neue Tests B)
-Und noch was und was neues :D
+Schrank [
+    Schuhe,
+    Jacke,
+    Schal,
+    Mütze
+]
 
 Rucksack [
-    bottle_water,
-    bicycle,
-    kompass_kaputt,
-    mütze,
-    schal,
-    stiefel,
-    uhr
+    Trinkflasche,
+    Kugelschreiber,
+    Notizblock
 ]
-Rucksack2 [
-    dies,
-    und das,
-    und jenes
+
+Mülleimer [
+    Quittungen,
+    leere Flasche,
+    Taschentücher,
+    sonstiger Müll
 ]
