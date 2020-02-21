@@ -1,4 +1,3 @@
-
 Tafel [
     x = 1,
     y = 2,
@@ -36,5 +35,3 @@ Mülleimer [
     Taschentücher,
     sonstiger Müll
 ]
-
-
