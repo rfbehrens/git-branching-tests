@@ -1,5 +1,5 @@
 Status [
-    Unterwegs
+    Daheim
 ]
 
 Tafel [
@@ -21,20 +21,22 @@ Kühlschrank [
 ]
 
 Schrank [
-    
+    Schuhe,
+    Jacke,
+    Schal,
+    Mütze
 ]
 
 Kleidung [
-    Schuhe,
-    Jacke
+    Shirt,
+    Hose,
+    Socken
 ]
 
 Rucksack [
     Trinkflasche,
     Kugelschreiber,
-    Notizblock,
-    Schal,
-    Mütze
+    Notizblock
 ]
 
 Mülleimer [
