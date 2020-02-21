@@ -1,3 +1,7 @@
+Status [
+    Unterwegs
+]
+
 Tafel [
     x = 1,
     y = 2,
@@ -17,16 +21,20 @@ Kühlschrank [
 ]
 
 Schrank [
+    
+]
+
+Kleidung [
     Schuhe,
-    Jacke,
-    Schal,
-    Mütze
+    Jacke
 ]
 
 Rucksack [
     Trinkflasche,
     Kugelschreiber,
-    Notizblock
+    Notizblock,
+    Schal,
+    Mütze
 ]
 
 Mülleimer [
