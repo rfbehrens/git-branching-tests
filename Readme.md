@@ -1,3 +1,7 @@
+Status [
+    Daheim
+]
+
 Tafel [
     x = 1,
     y = 2,
@@ -21,6 +25,12 @@ Schrank [
     Jacke,
     Schal,
     Mütze
+]
+
+Kleidung [
+    Shirt,
+    Hose,
+    Socken
 ]
 
 Rucksack [
