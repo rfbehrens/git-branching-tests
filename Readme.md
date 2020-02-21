@@ -17,7 +17,7 @@ Rucksack [
     bottle_water,
     bicycle,
     was anderes,
-    kompass,
+    kompass_kaputt,
     mütze,
     schal,
     stiefel,
