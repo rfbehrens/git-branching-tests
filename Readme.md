@@ -21,7 +21,8 @@ Rucksack [
     kompass,
     mütze,
     schal,
-    stiefel
+    stiefel,
+    uhr
 ]
 Rucksack2 [
     dies,
