@@ -3,6 +3,7 @@ v0.1
 Beginn Master Branch
 Beginn Develop Branch
 
+<<<<<<< HEAD
 x = y :)
 y = 121
 
