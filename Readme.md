@@ -6,34 +6,34 @@ Tafel [
 ]
 
 Einkaufsliste [
-    Milch,
-    Eier,
+    Milch
+    Eier
     Brot
 ]
 
 Kühlschrank [
-    Marmelade,
-    Wurst,
+    Marmelade
+    Wurst
     Käse
 ]
 
 Schrank [
-    Schuhe,
-    Jacke,
-    Schal,
+    Schuhe
+    Jacke
+    Schal
     Mütze
 ]
 
 Rucksack [
-    Trinkflasche,
-    Kugelschreiber,
+    Trinkflasche
+    Kugelschreiber
     Notizblock
 ]
 
 Mülleimer [
-    Quittungen,
-    leere Flasche,
-    Taschentücher,
+    Quittungen
+    leere Flasche
+    Taschentücher
     sonstiger Müll
 ]
 
