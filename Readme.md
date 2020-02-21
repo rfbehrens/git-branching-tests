@@ -3,8 +3,13 @@ v0.1
 Beginn Master Branch
 Beginn Develop Branch
 
+<<<<<<< HEAD
 x = y :)
 y = 121
+=======
+x = x :)
+y = 15
+>>>>>>> b9790f571c5cca8dab7a298c9639eccc033b23c5
 
 Commit Eintrag X
 Commit Eintrag 11
