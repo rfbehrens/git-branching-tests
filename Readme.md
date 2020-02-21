@@ -17,6 +17,9 @@ Rucksack [
     umbrella,
     bottle_water,
     bicycle,
+    was anderes
+]
+Rucksack2 [
     dies,
     und das,
     und jenes
