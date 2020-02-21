@@ -3,8 +3,8 @@ v0.1
 Beginn Master Branch
 Beginn Develop Branch
 
-x = x :)
-y = 2
+x = y :)
+y = 121
 
 Commit Eintrag X
 Commit Eintrag 11
