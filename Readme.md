@@ -12,7 +12,7 @@ Und noch was und was neues :D
 Rucksack [
     bottle_water,
     bicycle,
-    kompass,
+    kompass_kaputt,
     mütze,
     schal,
     stiefel,
