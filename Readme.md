@@ -3,8 +3,8 @@ v0.1
 Beginn Master Branch
 Beginn Develop Branch
 
-x = x :)
-y = 23
+x = y :)
+y = 121
 
 Nuer Commit für neue Tests B)
 Und noch was und was neues :D
