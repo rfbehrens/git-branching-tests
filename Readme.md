@@ -17,7 +17,11 @@ Rucksack [
     umbrella,
     bottle_water,
     bicycle,
-    was anderes
+    was anderes,
+    kompass,
+    mütze,
+    schal,
+    stiefel
 ]
 Rucksack2 [
     dies,
