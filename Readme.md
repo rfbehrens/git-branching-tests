@@ -17,7 +17,6 @@ Rucksack [
     umbrella,
     bottle_water,
     bicycle,
-    was anderes,
     kompass,
     mütze,
     schal,
