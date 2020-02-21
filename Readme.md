@@ -1,4 +1,4 @@
-v0.1
+v0.1.0
 
 Beginn Master Branch
 Beginn Develop Branch
