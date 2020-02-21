@@ -10,7 +10,6 @@ Nuer Commit für neue Tests B)
 Und noch was und was neues :D
 
 Rucksack [
-    umbrella,
     bottle_water,
     bicycle,
     kompass,
