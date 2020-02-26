@@ -1,4 +1,4 @@
-Status [
+🗺️ Status [
     Daheim
 ]
 
@@ -8,38 +8,44 @@ Tafel [
     z = x + y
 ]
 
-Einkaufsliste [
-    Milch,
-    Eier,
-    Brot
+📊 Tafel [
+    * x = 1,
+    * y = 2,
+    * z = x + y
 ]
 
-Kühlschrank [
-    Marmelade,
-    Wurst,
-    Käse
+📝 Einkaufsliste [
+    - Milch,
+    - Eier,
+    - Brot
 ]
 
-Schrank [
+❄️ Kühlschrank [
+    + Marmelade,
+    + Wurst,
+    + Käse
+]
+
+🧳 Schrank [
     Schuhe,
     Jacke,
     Schal,
     Mütze
 ]
 
-Kleidung [
+👚 Kleidung [
     Shirt,
     Hose,
     Socken
 ]
 
-Rucksack [
+🎒 Rucksack [
     Trinkflasche,
     Kugelschreiber,
     Notizblock
 ]
 
-Mülleimer [
+🗑️ Mülleimer [
     Quittungen,
     leere Flasche,
     Taschentücher,
