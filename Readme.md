@@ -3,7 +3,7 @@
 ]
 
 📊 Tafel [
-    x = 1,
+    x = 4711,
     y = 2,
     z = x + y
 ]
@@ -35,8 +35,8 @@
 
 🎒 Rucksack [
     Trinkflasche,
-    Kugelschreiber,
-    Notizblock
+    Milch,
+    Käse
 ]
 
 🗑️ Mülleimer [
