@@ -35,8 +35,8 @@
 
 🎒 Rucksack [
     Trinkflasche,
-    Kugelschreiber,
-    Notizblock
+    Milch,
+    Käse
 ]
 
 🗑️ Mülleimer [
