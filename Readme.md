@@ -1,11 +1,47 @@
-v0.1
+🗺️ Status [
+    Daheim
+]
 
-Beginn Master Branch
-Beginn Develop Branch
+📊 Tafel [
+    x = 1,
+    y = 2,
+    z = x + y
+]
 
-x = x :)
-y = 2
+📝 Einkaufsliste [
+    Milch,
+    Eier,
+    Brot
+]
 
-Commit Eintrag 1
-Commit Eintrag 2
-Commit Eintrag 3
+❄️ Kühlschrank [
+    Marmelade,
+    Wurst,
+    Käse
+]
+
+🧳 Schrank [
+    Schuhe,
+    Jacke,
+    Schal,
+    Mütze
+]
+
+👚 Kleidung [
+    Shirt,
+    Hose,
+    Socken
+]
+
+🎒 Rucksack [
+    Trinkflasche,
+    Kugelschreiber,
+    Notizblock
+]
+
+🗑️ Mülleimer [
+    Quittungen,
+    leere Flasche,
+    Taschentücher,
+    sonstiger Müll
+]

@@ -1,0 +1,24 @@
+v0.1
+
+Beginn Master Branch
+Beginn Develop Branch
+
+x = x :)
+y = 2
+
+Commit Eintrag X
+Commit Eintrag 11
+Commit Eintrag 31
+
+Nuer Commit für neue Tests B)
+Und noch was und was neues :D
+
+Rucksack [
+    umbrella,
+    bottle_water,
+<<<<<<< HEAD
+    bicycle
+=======
+    pony
+>>>>>>> 6b114474acda17ff66d6c9243929f407a8dc265f
+]
