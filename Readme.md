@@ -8,13 +8,12 @@
     z = x + y
 ]
 
-📝 Einkaufsliste [
-    Brot
-]
+📝 Einkaufsliste []
 
 ❄️ Kühlschrank [
     Milch,
     Eier,
+    Brot,
     Marmelade,
     Wurst,
     Käse
