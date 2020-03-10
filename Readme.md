@@ -9,12 +9,12 @@
 ]
 
 📝 Einkaufsliste [
-    Milch,
     Eier,
     Brot
 ]
 
 ❄️ Kühlschrank [
+    Milch,
     Marmelade,
     Wurst,
     Käse
